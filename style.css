@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    background-color: lightcyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#logo {
+    width: 10%;
+    height: 10%;
+    margin: 10px;
+}
+
+header {
+    background-color: indigo;
+    color: white;
+    padding-bottom: 20px;
+}
+
+#title {
+    display: inline;
+    font-size: 40px;
+}
+
+#links li {
+    display: inline;
+    padding: 15px;
+    border-right: 2px solid white;
+}
+
+#links li:hover {
+    background-color: cyan;
+}
+
+#links a {
+    color: black;
+    text-decoration: none;
+}
+
+nav {
+    background-color: turquoise;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+section {
+    padding: 10px;
+}
+
+table, th, td, caption {
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 30px;
+}
+
+th {
+    background-color: gold;   
+}
+
+caption {
+    font-size: 20px;
+    background-color: darkgoldenrod
+   
+}
+
+td {
+    text-align: center;
+}
+
+.facultyImg {
+    width: 100px;
+    height:100p;
+    border: 1px solid purple;
+    border-radius: 20;
+}
+
+Img:hover {
+    transform: scale(1.2);
+}
+
+dd {
+    font-style: italic;
+}
+
+label {
+    display: inline-block;
+    margin-bottom:30px;
+    margin-top:10px;
+}
