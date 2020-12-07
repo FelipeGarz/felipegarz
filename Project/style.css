@@ -1,0 +1,46 @@
+body {
+    background-color: hsl(0, 89%, 36%);
+    background-image: url(images/scribble-light.png);
+}
+
+h1 {
+    color: white;
+}
+
+nav{
+    color: white;
+}
+
+section {
+    color: white;
+}
+
+.carousel-caption {
+    text-shadow: 4px 4px 6px #000000; 
+}
+
+section {
+    font-size: 30px;
+}
+
+.img-src {
+    width: 50px;
+    height: 60px;
+}
+
+nav {
+    background-color:black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+section {
+    padding: 10px;
+}
+
+table, th, td, caption {
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 30px;
+}
+
